@@ -1,0 +1,4 @@
+{
+   "connectionString": "mongodb://admin:Dearkaka_78@ds141098.mlab.com:41098/page-performance",
+   "secret": "REPLACE THIS WITH YOUR OWN SECRET, IT CAN BE ANY STRING"
+}

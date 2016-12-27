@@ -1,0 +1,58 @@
+[
+   {
+	   	"name":"NBT_HOME_DESKTOP",
+	   	"site":"NBT",
+	   	"url":"www.navbharattimes.indiatimes.com",
+	   	"label":"NBT Home",
+	   	"platform":"desktop"
+    },
+    {
+	   	"name":"NBT_AS_DESKTOP",
+	   	"site":"NBT",
+	   	"url":"http://navbharattimes.indiatimes.com/india/india-successfully-test-fires-agni-v-missile-northern-china-in-range-now/articleshow/56179788.cms",
+	   	"label":"NBT ArticleShow",
+	   	"platform":"desktop"
+    },
+    {
+	   	"name":"NBT_HOME_MOBILE",
+	   	"site":"NBT",
+	   	"url":"m.navbharattimes.indiatimes.com",
+	   	"label":"NBT Home",
+	   	"platform":"mobile"
+    },
+    {
+	   	"name":"NBT_AS_MOBILE",
+	   	"site":"NBT",
+	   	"url":"http://m.navbharattimes.indiatimes.com/india/india-successfully-test-fires-agni-v-missile-northern-china-in-range-now/articleshow/56179788.cms",
+	   	"label":"NBT ArticleShow",
+	   	"platform":"mobile"
+    },
+    {
+	   	"name":"MT_HOME_DESKTOP",
+	   	"site":"MT",
+	   	"url":"www.maharashtratimes.indiatimes.com",
+	   	"label":"MT Home",
+	   	"platform":"desktop"
+    },
+    {
+	   	"name":"MT_AS_DESKTOP",
+	   	"site":"MT",
+	   	"url":"http://maharashtratimes.indiatimes.com/maharashtra/mumbai-news/central-railway-to-get-new-local-in-new-year/articleshow/56180111.cms",
+	   	"label":"MT ArticleShow",
+	   	"platform":"desktop"
+    },
+    {
+	   	"name":"MT_HOME_MOBILE",
+	   	"site":"MT",
+	   	"url":"m.maharashtratimes.indiatimes.com",
+	   	"label":"MT Home",
+	   	"platform":"mobile"
+    },
+    {
+	   	"name":"MT_AS_MOBILE",
+	   	"site":"MT",
+	   	"url":"http://m.maharashtratimes.com/maharashtra/mumbai-news/central-railway-to-get-new-local-in-new-year/articleshow/56180111.cms",
+	   	"label":"MT ArticleShow",
+	   	"platform":"mobile"
+    }
+]
